@@ -39,13 +39,7 @@ public class HttpStatusChecker {
                     System.out.println("Picture found!");
 
                     return sb.toString();
-//                    System.out.println(strImeg);
-//                    System.out.println("***************************");
-//
-//                    System.out.println(image.getElementsByAttribute("style"));
-//                    System.out.println("***************************");
-//
-//                    System.out.println(image.getElementsByAttribute("style"));
+
                 }
 
             }
