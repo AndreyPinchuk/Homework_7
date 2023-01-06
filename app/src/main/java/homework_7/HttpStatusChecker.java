@@ -49,7 +49,5 @@ public class HttpStatusChecker {
             throw new RuntimeException(e);
         }
 
-
-//        return sb.toString();
     }
 }
