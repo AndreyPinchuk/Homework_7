@@ -31,7 +31,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'homework_7.App'
+    mainClass = 'homework_7.HttpImageStatusCli'
 }
 
 tasks.named('test') {
